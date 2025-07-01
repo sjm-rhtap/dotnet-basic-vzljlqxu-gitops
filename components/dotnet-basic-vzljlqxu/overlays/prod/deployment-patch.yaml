@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-appstudio/dance-bootstrap-app:latest
+      - image: tssc-quay-quay-tssc-quay.apps.cluster-rzb2l.rzb2l.sandbox1159.opentlc.com/tssc/dotnet-basic-vzljlqxu:5187a89b6746d5d03ed837497230b7de5f34bd99@sha256:a362f0ec37ce817c765a74c29de5ebf2c13a91ce7d816f15fd749930de2cd4b7
         name: container-image  
